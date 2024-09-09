@@ -22,7 +22,7 @@ Aqui está a estrutura do projeto:
 
 └── index.html
 
-    └── [Página principal do site]
+|   └── [Página principal do site]
 
 ### 🌐 Visualização do Site
 
@@ -41,7 +41,7 @@ As imagens utilizadas no site estão armazenadas na pasta img. Elas são respons
 HTML5: Para a estruturação do conteúdo.
 CSS3: Para o design e layout do site.
 
-###📄 Licença
+### 📄 Licença
 Este projeto é de uso livre para fins educacionais e está licenciado sob a MIT License.
 
 Sinta-se à vontade para explorar o projeto e sugerir melhorias. Este é um projeto aberto para aprendizados e práticas de desenvolvimento web. 😊
