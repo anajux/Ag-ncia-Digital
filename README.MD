@@ -1,4 +1,4 @@
-**# Agência Digital - Fake Website**
+# **Agência Digital - Fake Website**
 
 
 Este projeto é um site fictício de uma agência digital, desenvolvido como parte de um exercício para treinar habilidades em HTML e CSS. O objetivo deste projeto é aprimorar o conhecimento em desenvolvimento web básico e estruturar um site moderno e responsivo utilizando apenas HTML e CSS.
